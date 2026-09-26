@@ -1,7 +1,7 @@
 version: "1"
 services:
   - type: web
-    name: tct-0.0.0
+    name: Tech-20
     runtime: docker
     plan: free
     region: virginia
