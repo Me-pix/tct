@@ -137,7 +137,7 @@ BOTS:
   # BOT 2: Secondary (ACTIVE )
   # ========================================
   - SESSION_ID: "tct_jjxjjx992"
-    TIMEZONE: "Afica/Nairobi"
+    TIMEZONE: "Africa/Nairobi"
     PREFIX: "."
     OPENWEATHER_API_KEY: "key_2"
     ALIVE_IMAGES: *default_alive_images
