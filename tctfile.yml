@@ -123,8 +123,8 @@ BOTS:
   # ========================================
   # BOT 1: Primary (ACTIVE - Uncommented)
   # ========================================
-  - SESSION_ID: "tct_236hgy"              
-    TIMEZONE: "Africa/Nairobi"             
+  - SESSION_ID: "tct_97d3a222"              
+    TIMEZONE: "Africa/Lagos"             
     PREFIX: "."                           
     #OPENWEATHER_API_KEY: "your_key_here"  
 
